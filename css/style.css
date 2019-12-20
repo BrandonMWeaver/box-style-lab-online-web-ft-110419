@@ -27,7 +27,7 @@ h4 {
 }
 
 img {
-  box-sizing: 
+  box-sizing: border-box;
 }
 
 .amiable {
